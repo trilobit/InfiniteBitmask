@@ -1,0 +1,2 @@
+# InfiniteBitmask
+Infinite bitmask implementation
